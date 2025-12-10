@@ -1,5 +1,5 @@
 <p align="center">
-<img src="v-photos/tureah.png" alt="Team Photo" style="width:300px; height:200px;">
+<img src="v-photos/batman.png" alt="Team Photo" style="width:300px; height:200px;">
 </p>
 
 
@@ -43,7 +43,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 <table border="1">
   <tr>
     <td align="center">
-      <img src="/t-photos/osama1.jpeg" alt="From the right" width="240"height="250"/><br>
+      <img src="/t-photos/osama669.png" alt="From the right" width="240"height="250"/><br>
       Osama Jadbah<br>
       Planning <br>
       Research<br>
@@ -65,5 +65,5 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 </table>
 
 We are a team of three passionate Palestinian students from Tulkarm Industrial Secondary School, united by our love for programming, artificial intelligence, and problem-solving. Osama Jadbah, an 11th-grade student, focuses on lifelong learning, self-development, and has earned multiple excellence certificates for his achievements. Mohammad Attili, 16, is a competitive programmer who has excelled in national and international contests, showcasing his innovation and tech skills. Kareem Amr, also 16, is a skilled programmer and problem solver, experienced in algorithms and competitive programming, and an accomplished chess player who earned 3rd place in the Palestinian Chess Championship. Together, we strive to develop our skills, tackle challenging projects, and explore new technological horizons.
-[Further Information](https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/Team%20Description.pdf)
+[Further Information](https://github.com/MohdAttili/لBATMAN-TEAM/blob/main/t-photos/Team%20Description.pdf)
 ## -------------------------------------------------------------------------------------
