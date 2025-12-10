@@ -43,7 +43,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 <table border="1">
   <tr>
     <td align="center">
-      <img src="/t-photos/osama6699.png" alt="From the right" width="240"height="250"/><br>
+      <img src="/t-photoS/osama669_1080x1080.png" alt="From the right" width="240"height="250"/><br>
       Osama Jadbah<br>
       Planning <br>
       Research<br>
