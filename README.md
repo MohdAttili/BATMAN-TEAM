@@ -1,5 +1,5 @@
 <p align="center">
-<img src="v-photos/batman.png" alt="Team Photo" style="width:300px; height:200px;">
+<img src="v-photos/batman_logo_4k_yellow_accent.png" alt="Team Photo" style="width:300px; height:200px;">
 </p>
 
 
@@ -34,12 +34,6 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 
 ## Who We Are
 
-<!-- <p align="center">
-<img src="t-photos/karem1.jpg" alt="Kareem" width="240"height="250" />
-<img src="t-photos/attili.jpg" alt="Attili" width="240"/>
-<img src="t-photos/osama1.jpeg" alt="Osama" width=240/>
-</p> -->
-
 <table border="1">
   <tr>
     <td align="center">
@@ -67,3 +61,42 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 We are a team of three passionate Palestinian students from Tulkarm Industrial Secondary School, united by our love for programming, artificial intelligence, and problem-solving. Osama Jadbah, an 11th-grade student, focuses on lifelong learning, self-development, and has earned multiple excellence certificates for his achievements. Mohammad Attili, 16, is a competitive programmer who has excelled in national and international contests, showcasing his innovation and tech skills. Kareem Amr, also 16, is a skilled programmer and problem solver, experienced in algorithms and competitive programming, and an accomplished chess player who earned 3rd place in the Palestinian Chess Championship. Together, we strive to develop our skills, tackle challenging projects, and explore new technological horizons.
 [Further Information](https://github.com/MohdAttili/لBATMAN-TEAM/blob/main/t-photos/Team%20Description.pdf)
 ## -------------------------------------------------------------------------------------
+## 🔍 Project Description
+**🎯 Goals**  
+1. Build a functional self-driven vehicle that can navigate a course autonomously.  
+2. Integrate electronic and mechanical components seamlessly.  
+3. Develop modular and maintainable code to control all vehicle components.  
+4. Document all aspects of the vehicle's design, construction, and programming.  
+5. Provide clear and detailed engineering materials to facilitate understanding and replication.  
+
+ ## ⚙️ Physical Equipment  
+ [More Details about the Components](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Selected%20Components.pdf)
+ 
+ [Comparisons with Other Components in the Market](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Comparison%20with%20Other%20Components.pdf) 
+  <p align="center">
+   <img src="v-photos//Robot parts/ESP32-WROOM-32.png" alt="Image 1" width="90"/>
+   <img src="v-photos/Robot parts/weeemake_wheel_high_res_dramatic.png" alt="Image 2" width="90"/>
+   <img src="v-photos//Robot parts/EV3 LEGO Technic Set Pieces.png" alt="Image 3" width="90"/>
+   <img src="v-photos//Robot parts/GM25 370 Motor.png" alt="Image 4" width="90"/>
+   <img src="v-photos//Robot parts/HC-SR04 Ultrasonic Sensor.png" alt="Image 5" width="90"/>
+   <img src="v-photos//Robot parts/l298n_motor_driver_high_res_dramatic.png" alt="Image 6" width="90"/>
+   <img src="v-photos//Robot parts/mg996r_servo_high_res_dramatic.png" alt="Image 7" width="90"/>
+   <img src="v-photos//Robot parts/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
+ </p>
+ 
+ ## -------------------------------------------------------------------------------------
+ ## 🎮 The Code 
+ 
+ ## Robot Videos  
+ <table border="1">
+   <tr>
+     <td align="center">
+       <img src="/v-photos/batman_logo_4k_yellow_accent.png" alt="From the right" width="400" height="250"/><br>  
+       <a href="Not ready yet" target="_blank">Open Challenge</a>
+     </td>
+     <td align="center">
+       <img src="/v-photos/batman_logo_4k_yellow_accent.png" alt="From the left" width="400" height="250"/><br>
+       <a href="Not ready yet" target="_blank">Obstacle Challenge</a>
+     </td>  
+   </tr>
+ </table>
