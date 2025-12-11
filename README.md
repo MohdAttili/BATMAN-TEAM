@@ -70,6 +70,27 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 5. Provide clear and detailed engineering materials to facilitate understanding and replication.  
 
  ## ⚙️ Physical Equipment  
+**1. 🧠 ESP32-WROOM-32 Overview**
+1. ESP32-WROOM-32 is a microcontroller by Espressif with Wi-Fi and Bluetooth, commonly used in smart devices and robotics.
+2. It features a dual-core Xtensa 32-bit LX6 processor up to 240 MHz, with 520 KB SRAM and 4 MB Flash.
+3. Offers around 34 programmable GPIO pins and interfaces like SPI, I2C,  UART, PWM, and I2S, with ADC/DAC support.  
+4. Supports dual connectivity, multiple protocols, and has a large  community with ready-to-use libraries.  
+5. Common applications include robotics, smart home systems, remote   measurement/control devices, and IoT data collection. 
+
+**2.🎥 Pixy 2.1 (CMUcam5) Overview**
+1. The Pixy 2.1 is a smart vision sensor that detects and tracks objects by color or shape.
+2. Resolution: 320×200 pixels, frame rate up to 60 fps, with interfaces SPI, I²C, UART, and USB.
+3. Built-in processor allows real-time object recognition and can track multiple objects simultaneously.
+4. Sends object coordinates directly to microcontrollers like Arduino or ESP32, reducing main board load.
+5. Common applications include line-following robots, object detection/sorting, interactive projects, and educational AI experiments.
+
+**3. ⚡ MG996R Servo Overview**
+1. High-torque digital servo with reliable performance and precise positioning.   
+2. Operating Voltage: 4.8–6.0V DC, providing ~9.4–11 kg·cm torque.     
+3. Applications: Suitable for steering, robotic arms, and hobby projects.   
+4. Motor & Gears: Coreless motor with durable metal gears for smooth, accurate motion.   
+4. Control & Integration: Controlled via standard PWM; compatible with Arduino, Raspberry Pi, and robotics kits.  
+
  [More Details about the Components](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Selected%20Components.pdf)
  
  [Comparisons with Other Components in the Market](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Comparison%20with%20Other%20Components.pdf) 
