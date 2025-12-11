@@ -81,6 +81,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 ```
 <details>
 <summary>Show remaining equipment</summary>
+
 ```cpp
   **2.🎥 Pixy 2.1 (CMUcam5) Overview**
   1. The Pixy 2.1 is a smart vision sensor that detects and tracks objects by color or shape.
