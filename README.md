@@ -29,7 +29,8 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 ## -------------------------------------------------------------------------------------
 ## Why TUREAH
 
-**Our team is called "TUREAH" after the farming tool, symbolizing hard work, perseverance, and the ability to overcome obstacles. Just like the tool prepares the soil for growth, our team paves the way for success. 🌱**
+**Our team is called “BATMAN” — not only after the iconic hero, but after the values he stands for. Batman represents discipline, sharp thinking, resilience, and the courage to confront challenges head-on. Just as he rises above the darkness to restore order, our team rises above obstacles to achieve success. 🦇💪**
+
 ## -------------------------------------------------------------------------------------
 
 ## Who We Are
@@ -58,7 +59,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
   </tr>
 </table>
 
-We are a team of three passionate Palestinian students from Tulkarm Industrial Secondary School, united by our love for programming, artificial intelligence, and problem-solving. Osama Jadbah, an 11th-grade student, focuses on lifelong learning, self-development, and has earned multiple excellence certificates for his achievements. Mohammad Attili, 16, is a competitive programmer who has excelled in national and international contests, showcasing his innovation and tech skills. Kareem Amr, also 16, is a skilled programmer and problem solver, experienced in algorithms and competitive programming, and an accomplished chess player who earned 3rd place in the Palestinian Chess Championship. Together, we strive to develop our skills, tackle challenging projects, and explore new technological horizons.
+We are a team of three passionate Palestinian students from Tulkarm Industrial Secondary School, united by our love for programming, artificial intelligence, and problem-solving. Osama Jadbah, an 12th-grade student, focuses on lifelong learning, self-development, and has earned multiple excellence certificates for his achievements. Mohammad Attili, 17, is a competitive programmer who has excelled in national and international contests, showcasing his innovation and tech skills. Kareem Amr, also 18, is a skilled programmer and problem solver, experienced in algorithms and competitive programming, and an accomplished chess player who earned 3rd place in the Palestinian Chess Championship. Together, we strive to develop our skills, tackle challenging projects, and explore new technological horizons.
 [Further Information](https://github.com/MohdAttili/لBATMAN-TEAM/blob/main/t-photos/Team%20Description.pdf)
 ## -------------------------------------------------------------------------------------
 ## 🔍 Project Description
@@ -90,6 +91,85 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 3. Applications: Suitable for steering, robotic arms, and hobby projects.   
 4. Motor & Gears: Coreless motor with durable metal gears for smooth, accurate motion.   
 4. Control & Integration: Controlled via standard PWM; compatible with Arduino, Raspberry Pi, and robotics kits.  
+
+**4. ⚡ JGA52-370 12V Motor Overview**
+1. DC geared motor designed for stable torque output and smooth rotational performance.
+2. Operating Voltage: 6–12V DC, delivering strong torque suitable for medium-load applications.
+3. Applications: Ideal for robotics, electric locks, conveyor systems, and DIY mechanical projects.
+4. Motor & Gearbox: Equipped with a 370-series motor and a high-precision metal gearbox for durability and consistent speed.
+5. Control & Integration: Easily driven by motor drivers (L298N, BTS7960, etc.); compatible with Arduino, microcontrollers, and automation setups.
+
+**5.⚡ AUG 22 Wires Overview**
+1. High-quality 22-AWG stranded wires designed for reliable electrical connections.
+2. Specifications: Rated for low-voltage DC circuits; supports stable current flow with flexible insulation.
+3. Applications: Suitable for sensors, prototyping, breadboards, and lightweight robotics wiring.
+4. Build & Material: Features multi-strand copper conductors with durable PVC insulation for flexibility and longevity.
+5. Integration: Easy to strip, solder, and connect; compatible with Arduino, Raspberry Pi, and general electronic modules.
+
+**6.⚡ L298N Motor Driver Overview**
+1. Dual H-bridge motor driver designed for controlling two DC motors or one stepper motor with stable performance.
+2. Operating Voltage: 5–35V DC input, providing up to 2A per channel under proper cooling.
+3. Applications: Ideal for robotics, RC vehicles, CNC mechanisms, and motor-control projects.
+4. Components & Features: Built-in 5V regulator, heat sink for thermal stability, and independent motor channels for precise control.
+5. Control & Integration: Compatible with Arduino, Raspberry Pi, and microcontroller systems using PWM signals for speed and direction control.
+
+**7.⚡ Metal Gear Set Overview**
+1. Durable metal gear assortment designed for mechanical transmission and high-torque applications.
+2. Specifications: Includes multiple gear sizes and tooth counts, ensuring compatibility with various motor shafts and gear ratios.
+3. Applications: Suitable for robotics mechanisms, gearboxes, servo repairs, and custom motion-control projects.
+4. Material & Build: Constructed from hardened metal for strength, wear resistance, and long operational life.
+5. Integration: Easy to mount and modify; compatible with DC motors, servo upgrades, and DIY mechanical assemblies.
+
+**8.⚡ M3 Screws Overview**
+1. Standard M3 metric screws designed for secure fastening in mechanical and electronic assemblies.
+2. Specifications: Available in various lengths with a 3mm thread diameter, offering reliable strength and compatibility.
+3. Applications: Suitable for mounting motors, brackets, PCBs, 3D-printed parts, and structural frames.
+4. Material & Build: Manufactured from stainless steel or hardened alloy for durability, corrosion resistance, and stable threading.
+5. Integration: Compatible with nuts, washers, and standoffs; ideal for robotics kits, DIY projects, and precision hardware assemblies.
+
+**9⚡ M4 Screws Overview**
+1. Robust M4 metric screws designed for strong and secure fastening in mechanical structures.
+2. Specifications: 4mm thread diameter with multiple length options, providing enhanced load-bearing capacity.
+3. Applications: Ideal for mounting metal brackets, motors, aluminum frames, and heavy-duty assemblies.
+4. Material & Build: Made from stainless steel or alloy steel for high durability, corrosion resistance, and reliable threading.
+5. Integration: Compatible with M4 nuts, washers, and structural components; suitable for robotics, machinery, and DIY mechanical projects.
+
+**10⚡ MPU6050 Gyroscope Overview**
+1. 6-axis motion tracking sensor combining a 3-axis gyroscope and 3-axis accelerometer for precise orientation detection.
+2. Operating Voltage: 3–5V DC, providing accurate angular velocity and acceleration measurements.
+3. Applications: Ideal for drones, robotics, balance robots, and motion-sensing projects.
+4. Components & Features: Built-in Digital Motion Processor (DMP) for real-time motion processing; I²C interface for easy communication.
+5. Integration: Compatible with Arduino, Raspberry Pi, and microcontroller platforms; supports libraries for quick implementation and calibration.
+
+**11⚡ TOF 200C Overview**
+1. High-precision Time-of-Flight (ToF) distance sensor designed for accurate and fast distance measurements.
+2. Operating Voltage: 3.3–5V DC, capable of measuring distances with millimeter-level accuracy.
+3. Applications: Ideal for obstacle detection, robotics navigation, automation systems, and gesture recognition projects.
+4. Components & Features: Features a laser emitter and receiver module for precise distance calculation; compact and lightweight design.
+5. Integration: Communicates via I²C interface; compatible with Arduino, Raspberry Pi, and other microcontroller platforms.
+
+**12⚡ TOF 400C Overview**
+1. Advanced Time-of-Flight (ToF) distance sensor designed for high-accuracy and long-range measurements.
+2. Operating Voltage: 3.3–5V DC, capable of detecting distances up to several meters with precise millimeter resolution.
+3. Applications: Ideal for robotics, autonomous navigation, obstacle avoidance, and industrial automation projects.
+4. Components & Features: Equipped with a laser emitter and receiver, offering fast response and reliable distance sensing in compact form.
+5. Integration: Communicates via I²C interface; compatible with Arduino, Raspberry Pi, and microcontroller platforms.
+(Quantity: 3 units)
+
+**13⚡ XH Connectors Overview**
+1. Reliable XH series connectors designed for secure and consistent electrical connections.
+2. Specifications: Standard pitch and pin configuration for low-voltage DC circuits; supports stable current flow.
+3. Applications: Ideal for battery packs, sensors, small electronic modules, and hobby electronics projects.
+4. Material & Build: Made from durable plastic housing with tin-plated metal contacts for corrosion resistance and long life.
+5. Integration: Easy to plug and unplug; compatible with JST-XH wires and headers for quick assembly and prototyping.
+
+**14⚡ 4.3” OLED Display Overview**
+1. Compact 4.3-inch OLED screen designed for sharp visuals and low power consumption.
+2. Specifications: High-contrast display with bright colors and wide viewing angles; supports 16-bit color depth.
+3. Applications: Ideal for DIY electronics, robotics interfaces, handheld devices, and monitoring panels.
+4. Components & Features: Features an integrated driver for easy control, thin and lightweight for compact setups.
+5. Integration: Compatible with Arduino, Raspberry Pi, and other microcontroller platforms; supports SPI/I²C communication.
+(Quantity: 2 units)
 
  [More Details about the Components](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Selected%20Components.pdf)
  
