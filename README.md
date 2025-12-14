@@ -2,15 +2,15 @@
 <img src="v-photos/batman_logo_4k_yellow_accent.png" alt="Team Photo" style="width:300px; height:200px;">
 </p>
 
-
----
-
+##
+----
 ## Vehicle Preview
 <p align="center">
 <img src="v-photos//Robot pictures/from the top.png" alt="Vehicle Photo" width="500"/>
 </p>
 
----
+##
+----
 An autonomous vehicle designed for the Future Engineers category of the WRO 2025 that uses computer vision and IMU sensors to navigate complex environments and avoid obstacles intelligently.
 
 ## Content Structure
@@ -26,13 +26,14 @@ An autonomous vehicle designed for the Future Engineers category of the WRO 2025
 This repository contains all the engineering materials, code, schematics, and models related to our self-driven vehicle, designed and built to participate in the WRO Future Engineers 2025 competition. The project aims to develop an autonomous vehicle capable of navigating a predefined course while demonstrating precision, stability, and effective control of electromechanical components.
 
 Our vehicle is a compact, versatile model incorporating both mechanical and electronic systems. It is designed to efficiently demonstrate autonomous navigation using sensors, motor control, and a central microcontroller. The design and implementation of this project involved detailed planning, testing, and iterative improvements to meet the strict requirements of the competition.
-## -------------------------------------------------------------------------------------
+##
+----
 ## Why BATMAN
 
 **Our team is called “BATMAN” — not only after the iconic hero, but after the values he stands for. Batman represents discipline, sharp thinking, resilience, and the courage to confront challenges head-on. Just as he rises above the darkness to restore order, our team rises above obstacles to achieve success. 🦇💪**
 
-## -------------------------------------------------------------------------------------
-
+##
+----
 ## Who We Are
 
 <table border="1">
@@ -190,7 +191,8 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
    <img src="v-photos/Robot parts/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
  </p>
  
- ## -------------------------------------------------------------------------------------
+ ##
+----
  ## 🎮 The Code 
  
  ## Robot Videos  
