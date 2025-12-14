@@ -20,14 +20,14 @@ An autonomous vehicle designed for the Future Engineers category of the WRO 2025
 📁 **video** → [video.md with demonstration link  ](https://github.com/MohdAttili/TSISFE2025/tree/main/video)   
 📁 **schemes** → [schematic diagrams ](https://github.com/MohdAttili/TSISFE2025/tree/main/schemes)    
 📁 **src** → [control software  ](https://github.com/MohdAttili/TSISFE2025/tree/main/src)   
-📁 **models** → [3D printing / laser cutting / CNC files ](https://github.com/MohdAttili/TSISFE2025/tree/main/models)    
+📁 **models** → [3D printing ](https://github.com/MohdAttili/TSISFE2025/tree/main/models)    
 📁 **other** → [documentation and additional resources  ](https://github.com/MohdAttili/TSISFE2025/tree/main/other)   
 ## Project Overview
 This repository contains all the engineering materials, code, schematics, and models related to our self-driven vehicle, designed and built to participate in the WRO Future Engineers 2025 competition. The project aims to develop an autonomous vehicle capable of navigating a predefined course while demonstrating precision, stability, and effective control of electromechanical components.
 
 Our vehicle is a compact, versatile model incorporating both mechanical and electronic systems. It is designed to efficiently demonstrate autonomous navigation using sensors, motor control, and a central microcontroller. The design and implementation of this project involved detailed planning, testing, and iterative improvements to meet the strict requirements of the competition.
 ## -------------------------------------------------------------------------------------
-## Why TUREAH
+## Why BATMAN
 
 **Our team is called “BATMAN” — not only after the iconic hero, but after the values he stands for. Batman represents discipline, sharp thinking, resilience, and the courage to confront challenges head-on. Just as he rises above the darkness to restore order, our team rises above obstacles to achieve success. 🦇💪**
 
@@ -95,7 +95,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 **4. ⚡ JGA52-370 12V Motor Overview**
 1. DC geared motor designed for stable torque output and smooth rotational performance.
-2. Operating Voltage: 6–12V DC, delivering strong torque suitable for medium-load applications.
+2. Operating Voltage: 12V DC, delivering strong torque suitable for medium-load applications.
 3. Applications: Ideal for robotics, electric locks, conveyor systems, and DIY mechanical projects.
 4. Motor & Gearbox: Equipped with a 370-series motor and a high-precision metal gearbox for durability and consistent speed.
 5. Control & Integration: Easily driven by motor drivers (L298N, BTS7960, etc.); compatible with Arduino, microcontrollers, and automation setups.
