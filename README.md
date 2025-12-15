@@ -182,16 +182,16 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
  [Comparisons with Other Components in the Market](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Comparison%20with%20Other%20Components.pdf) 
   <p align="center">
    <img src="v-photos/Robot parts/ESP32-WROOM-32.png" alt="Image 1" width="90"/>
-   <img src="v-photos/Robot parts/esp32 shield.png" alt="Image 2" width="90"/>
-   <img src="v-photos/Robot parts/gears.png" alt="Image 3" width="90"/>
-   <img src="v-photos/Robot parts/gyro.png" alt="Image 4" width="90"/>
-   <img src="v-photos/Robot parts/ln motor.png" alt="Image 5" width="90"/>
-   <img src="v-photos/Robot parts/tof200.png" alt="Image 6" width="90"/>
+   <img src="v-photos/Robot parts/dc_geared_motor_cinematic_high_res.png" alt="Image 2" width="90"/>
+   <img src="v-photos/Robot parts/esp32_breakout_board_cinematic_high_res.png" alt="Image 3" width="90"/>
+   <img src="v-photos/Robot parts/mpu6050_cinematic_high_res.png" alt="Image 4" width="90"/>
+   <img src="v-photos/Robot parts/oled_screen_enhanced.png" alt="Image 5" width="90"/>
+   <img src="v-photos/Robot parts/tof400_enhanced.png" alt="Image 6" width="90"/>
    <img src="v-photos/Robot parts/mg996r_servo_high_res_dramatic.png" alt="Image 7" width="90"/>
    <img src="v-photos/Robot parts/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
-   <img src="v-photos/Robot parts/tof400.png" alt="Image 6" width="90"/>
-   <img src="v-photos/Robot parts/wires awg22.png" alt="Image 6" width="90"/>
-   <img src="v-photos/Robot parts/xh connectors.png" alt="Image 6" width="90"/>
+   <img src="v-photos/Robot parts/wiresawg22_enhanced.png" alt="Image 6" width="90"/>
+   <img src="v-photos/Robot parts/xhconnector_enhanced.png" alt="Image 6" width="90"/>
+   <img src="v-photos/Robot parts/" alt="Image 6" width="90"/>
    <img src="v-photos/Robot parts/شاشة.png" alt="Image 9" width="90" height="200"/>
  </p>
  
