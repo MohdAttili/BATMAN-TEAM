@@ -192,7 +192,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
    <img src="v-photos/Robot parts/tof400.png" alt="Image 6" width="90"/>
    <img src="v-photos/Robot parts/wires awg22.png" alt="Image 6" width="90"/>
    <img src="v-photos/Robot parts/xh connectors.png" alt="Image 6" width="90"/>
-   <img src="v-photos/Robot parts/شاشة.png" alt="Image 6" width="90"/>
+   <img src="v-photos/Robot parts/شاشة.png" alt="Image 6" width="90" height="100"/>
  </p>
  
  ##
