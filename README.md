@@ -117,10 +117,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Widely used in robotics, electric locks, conveyor systems, and DIY mechanical projects, and can be easily controlled using motor drivers such as L298N or BTS7960, making it compatible with Arduino, microcontrollers, and automation systems.  
 
-
-
-
-**5.⚡ AUG 22 Wires Overview**
+**5.🔥 AUG 22 Wires Overview**
 <!-- 1. High-quality 22-AWG stranded wires designed for reliable electrical connections.
 2. Specifications: Rated for low-voltage DC circuits; supports stable current flow with flexible insulation.
 3. Applications: Suitable for sensors, prototyping, breadboards, and lightweight robotics wiring.
