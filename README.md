@@ -107,7 +107,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Commonly used in steering systems, robotic arms, and hobby projects, controlled via standard PWM and compatible with Arduino, Raspberry Pi, and various robotics kits.
 
-**4. ⚡ JGA52-370 12V Motor Overview**
+**4. 🚗 JGA52-370 12V Motor Overview**
 <!-- 1. DC geared motor designed for stable torque output and smooth rotational performance.
 2. Operating Voltage: 12V DC, delivering strong torque suitable for medium-load applications.
 3. Applications: Ideal for robotics, electric locks, conveyor systems, and DIY mechanical projects.
@@ -130,7 +130,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Commonly used for sensors, breadboards, prototyping, and lightweight robotics wiring, and are easy to strip, solder, and integrate with Arduino, Raspberry Pi, and general electronic modules.
 
-**6.⚡ L298N Motor Driver Overview**
+**6.🤖 L298N Motor Driver Overview**
 <!-- 1. Dual H-bridge motor driver designed for controlling two DC motors or one stepper motor with stable performance.
 2. Operating Voltage: 5–35V DC input, providing up to 2A per channel under proper cooling.
 3. Applications: Ideal for robotics, RC vehicles, CNC mechanisms, and motor-control projects.
@@ -140,7 +140,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Commonly used in robotics, RC vehicles, CNC mechanisms, and motor-control projects, and easily integrated with Arduino, Raspberry Pi, and other microcontrollers using PWM for speed and direction control. 
 
-**7.⚡ Metal Gear Set Overview**
+**7.🧩 Metal Gear Set Overview**
 <!-- 1. Durable metal gear assortment designed for mechanical transmission and high-torque applications.
 2. Specifications: Includes multiple gear sizes and tooth counts, ensuring compatibility with various motor shafts and gear ratios.
 3. Applications: Suitable for robotics mechanisms, gearboxes, servo repairs, and custom motion-control projects.
@@ -150,7 +150,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Commonly used in robotics mechanisms, gearboxes, servo repairs, and custom motion-control projects, made from hardened metal for long life and easy integration with DC motors, servos, and DIY mechanical assemblies.
    
-**8.⚡ M3 Screws Overview**
+**8.🔧 M3 Screws Overview**
 <!-- 1. Standard M3 metric screws designed for secure fastening in mechanical and electronic assemblies.
 1. Specifications: Available in various lengths with a 3mm thread diameter, offering reliable strength and compatibility.
 2. Applications: Suitable for mounting motors, brackets, PCBs, 3D-printed parts, and structural frames.
@@ -160,7 +160,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Widely used for mounting motors, brackets, PCBs, 3D-printed parts, and structural frames, and fully compatible with nuts, washers, and standoffs in robotics kits, DIY projects, and precision assemblies.
    
-**9⚡ M4 Screws Overview**
+**9 🛠 M4 Screws Overview**
 <!-- 1. Robust M4 metric screws designed for strong and secure fastening in mechanical structures.
 1. Specifications: 4mm thread diameter with multiple length options, providing enhanced load-bearing capacity.
 2. Applications: Ideal for mounting metal brackets, motors, aluminum frames, and heavy-duty assemblies.
@@ -170,7 +170,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Commonly used for mounting metal brackets, motors, aluminum frames, and heavy-duty structures, and compatible with M4 nuts and washers in robotics, machinery, and DIY mechanical projects.
    
-**10⚡ MPU6050 Gyroscope Overview**
+**10📏 MPU6050 Gyroscope Overview**
 <!-- 1. 6-axis motion tracking sensor combining a 3-axis gyroscope and 3-axis accelerometer for precise orientation detection.
 2. Operating Voltage: 3–5V DC, providing accurate angular velocity and acceleration measurements.
 3. Applications: Ideal for drones, robotics, balance robots, and motion-sensing projects.
@@ -180,7 +180,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. I²C interface for easy communication, compatible with Arduino, Raspberry Pi, and microcontroller platforms, with libraries available for quick implementation and calibration.
    
-**11⚡ TOF 200C Overview**
+**11👀 TOF 200C Overview**
 <!-- 1. High-precision Time-of-Flight (ToF) distance sensor designed for accurate and fast distance measurements.
 1. Operating Voltage: 3.3–5V DC, capable of measuring distances with millimeter-level accuracy.
 2. Applications: Ideal for obstacle detection, robotics navigation, automation systems, and gesture recognition projects.
@@ -190,7 +190,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Features a laser emitter and receiver, compact design, with I²C communication; compatible with Arduino, Raspberry Pi, and other microcontroller platforms.
    
-**12⚡ TOF 400C Overview**
+**12👓TOF 400C Overview**
 <!-- 1. Advanced Time-of-Flight (ToF) distance sensor designed for high-accuracy and long-range measurements.
 1. Operating Voltage: 3.3–5V DC, capable of detecting distances up to several meters with precise millimeter resolution.
 2. Applications: Ideal for robotics, autonomous navigation, obstacle avoidance, and industrial automation projects.
@@ -201,7 +201,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Features a laser emitter and receiver for fast and reliable distance sensing, compact design, with I²C communication; compatible with Arduino, Raspberry Pi, and microcontroller platforms. (Quantity: 3 units)
    
-**13⚡ XH Connectors Overview**
+**13📐 XH Connectors Overview**
 <!-- 1. Reliable XH series connectors designed for secure and consistent electrical connections.
 1. Specifications: Standard pitch and pin configuration for low-voltage DC circuits; supports stable current flow.
 2. Applications: Ideal for battery packs, sensors, small electronic modules, and hobby electronics projects.
@@ -211,7 +211,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 2. Durable plastic housing with tin-plated contacts for corrosion resistance, easy to plug/unplug, compatible with JST-XH wires and headers for quick assembly and prototyping.
    
-**14⚡ 4.3” OLED Display Overview**
+**14🖥 4.3” OLED Display Overview**
 <!-- 1. Compact 4.3-inch OLED screen designed for sharp visuals and low power consumption.
 1. Specifications: High-contrast display with bright colors and wide viewing angles; supports 16-bit color depth.
 2. Applications: Ideal for DIY electronics, robotics interfaces, handheld devices, and monitoring panels.
