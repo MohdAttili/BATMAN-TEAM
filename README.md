@@ -149,21 +149,23 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 1. Durable metal gear assortment designed for high-torque mechanical transmission, featuring multiple gear sizes and tooth counts to support different motor shafts and gear ratios.
 
 2. Commonly used in robotics mechanisms, gearboxes, servo repairs, and custom motion-control projects, made from hardened metal for long life and easy integration with DC motors, servos, and DIY mechanical assemblies.
+   
 **8.⚡ M3 Screws Overview**
 <!-- 1. Standard M3 metric screws designed for secure fastening in mechanical and electronic assemblies.
-2. Specifications: Available in various lengths with a 3mm thread diameter, offering reliable strength and compatibility.
-3. Applications: Suitable for mounting motors, brackets, PCBs, 3D-printed parts, and structural frames.
-4. Material & Build: Manufactured from stainless steel or hardened alloy for durability, corrosion resistance, and stable threading.
-5. Integration: Compatible with nuts, washers, and standoffs; ideal for robotics kits, DIY projects, and precision hardware assemblies. -->
+1. Specifications: Available in various lengths with a 3mm thread diameter, offering reliable strength and compatibility.
+2. Applications: Suitable for mounting motors, brackets, PCBs, 3D-printed parts, and structural frames.
+3. Material & Build: Manufactured from stainless steel or hardened alloy for durability, corrosion resistance, and stable threading.
+4. Integration: Compatible with nuts, washers, and standoffs; ideal for robotics kits, DIY projects, and precision hardware assemblies. -->
 1. M3 metric screws with a 3 mm thread diameter, available in various lengths, made from stainless steel or hardened alloy to provide durable, corrosion-resistant, and reliable fastening.
 
 2. Widely used for mounting motors, brackets, PCBs, 3D-printed parts, and structural frames, and fully compatible with nuts, washers, and standoffs in robotics kits, DIY projects, and precision assemblies.
+   
 **9⚡ M4 Screws Overview**
 <!-- 1. Robust M4 metric screws designed for strong and secure fastening in mechanical structures.
-2. Specifications: 4mm thread diameter with multiple length options, providing enhanced load-bearing capacity.
-3. Applications: Ideal for mounting metal brackets, motors, aluminum frames, and heavy-duty assemblies.
-4. Material & Build: Made from stainless steel or alloy steel for high durability, corrosion resistance, and reliable threading.
-5. Integration: Compatible with M4 nuts, washers, and structural components; suitable for robotics, machinery, and DIY mechanical projects. -->
+1. Specifications: 4mm thread diameter with multiple length options, providing enhanced load-bearing capacity.
+2. Applications: Ideal for mounting metal brackets, motors, aluminum frames, and heavy-duty assemblies.
+3. Material & Build: Made from stainless steel or alloy steel for high durability, corrosion resistance, and reliable threading.
+4. Integration: Compatible with M4 nuts, washers, and structural components; suitable for robotics, machinery, and DIY mechanical projects. -->
 1. M4 metric screws with a 4 mm thread diameter, available in multiple lengths, made from stainless steel or alloy steel to ensure high strength, durability, and corrosion resistance.
 
 2. Commonly used for mounting metal brackets, motors, aluminum frames, and heavy-duty structures, and compatible with M4 nuts and washers in robotics, machinery, and DIY mechanical projects.
