@@ -15,13 +15,13 @@ An autonomous vehicle designed for the Future Engineers category of the WRO 2025
 
 ## Content Structure
 
-📁 **t-photos** → [team photos ](https://github.com/MohdAttili/TSISFE2025/tree/main/t-photos)   
-📁 **v-photos** → [vehicle photos  ](https://github.com/MohdAttili/TSISFE2025/tree/main/v-photos)   
-📁 **video** → [video.md with demonstration link  ](https://github.com/MohdAttili/TSISFE2025/tree/main/video)   
-📁 **schemes** → [schematic diagrams ](https://github.com/MohdAttili/TSISFE2025/tree/main/schemes)    
-📁 **src** → [control software  ](https://github.com/MohdAttili/TSISFE2025/tree/main/src)   
-📁 **models** → [3D printing ](https://github.com/MohdAttili/TSISFE2025/tree/main/models)    
-📁 **other** → [documentation and additional resources  ](https://github.com/MohdAttili/TSISFE2025/tree/main/other)   
+📁 **t-photos** → [team photos ](https://github.com/MohdAttili/BATMAN-TEAM/tree/main/t-photos)   
+📁 **v-photos** → [vehicle photos  ](https://github.com/MohdAttili/BATMAN-TEAM/tree/main/v-photos)   
+📁 **video** → [video.md with demonstration link  ](https://github.com/MohdAttili/BATMAN-TEAM/tree/main/videos)   
+📁 **schemes** → [schematic diagrams ](https://github.com/MohdAttili/BATMAN-TEAM/tree/main/schemes)    
+📁 **src** → [control software  ](https://github.com/MohdAttili/BATMAN-TEAM/tree/main/src)   
+📁 **models** → [3D printing ](https://github.com/MohdAttili/BATMAN-TEAM/tree/main/models)    
+📁 **other** → [documentation and additional resources  ](https://github.com/MohdAttili/BATMAN-TEAM/tree/main/other)   
 ## Project Overview
 This repository contains all the engineering materials, code, schematics, and models related to our self-driven vehicle, designed and built to participate in the WRO Future Engineers 2025 competition. The project aims to develop an autonomous vehicle capable of navigating a predefined course while demonstrating precision, stability, and effective control of electromechanical components.
 
