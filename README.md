@@ -177,40 +177,44 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 1. 6-axis motion sensor combining a 3-axis gyroscope and 3-axis accelerometer, operating at 3–5V, with a built-in DMP for real-time motion processing, ideal for drones, robotics, and motion-sensing projects.
 
 2. I²C interface for easy communication, compatible with Arduino, Raspberry Pi, and microcontroller platforms, with libraries available for quick implementation and calibration.
+   
 **11⚡ TOF 200C Overview**
 <!-- 1. High-precision Time-of-Flight (ToF) distance sensor designed for accurate and fast distance measurements.
-2. Operating Voltage: 3.3–5V DC, capable of measuring distances with millimeter-level accuracy.
-3. Applications: Ideal for obstacle detection, robotics navigation, automation systems, and gesture recognition projects.
-4. Components & Features: Features a laser emitter and receiver module for precise distance calculation; compact and lightweight design.
-5. Integration: Communicates via I²C interface; compatible with Arduino, Raspberry Pi, and other microcontroller platforms. -->
+1. Operating Voltage: 3.3–5V DC, capable of measuring distances with millimeter-level accuracy.
+2. Applications: Ideal for obstacle detection, robotics navigation, automation systems, and gesture recognition projects.
+3. Components & Features: Features a laser emitter and receiver module for precise distance calculation; compact and lightweight design.
+4. Integration: Communicates via I²C interface; compatible with Arduino, Raspberry Pi, and other microcontroller platforms. -->
 1. High-precision Time-of-Flight (ToF) distance sensor operating at 3.3–5V, offering millimeter-level accuracy, ideal for obstacle detection, robotics navigation, automation, and gesture recognition.
 
 2. Features a laser emitter and receiver, compact design, with I²C communication; compatible with Arduino, Raspberry Pi, and other microcontroller platforms.
+   
 **12⚡ TOF 400C Overview**
 <!-- 1. Advanced Time-of-Flight (ToF) distance sensor designed for high-accuracy and long-range measurements.
-2. Operating Voltage: 3.3–5V DC, capable of detecting distances up to several meters with precise millimeter resolution.
-3. Applications: Ideal for robotics, autonomous navigation, obstacle avoidance, and industrial automation projects.
-4. Components & Features: Equipped with a laser emitter and receiver, offering fast response and reliable distance sensing in compact form.
-5. Integration: Communicates via I²C interface; compatible with Arduino, Raspberry Pi, and microcontroller platforms.
+1. Operating Voltage: 3.3–5V DC, capable of detecting distances up to several meters with precise millimeter resolution.
+2. Applications: Ideal for robotics, autonomous navigation, obstacle avoidance, and industrial automation projects.
+3. Components & Features: Equipped with a laser emitter and receiver, offering fast response and reliable distance sensing in compact form.
+4. Integration: Communicates via I²C interface; compatible with Arduino, Raspberry Pi, and microcontroller platforms.
 (Quantity: 3 units) -->
 1. Advanced Time-of-Flight (ToF) distance sensor operating at 3.3–5V, capable of long-range measurements with millimeter-level accuracy, ideal for robotics, autonomous navigation, obstacle avoidance, and industrial automation.
 
 2. Features a laser emitter and receiver for fast and reliable distance sensing, compact design, with I²C communication; compatible with Arduino, Raspberry Pi, and microcontroller platforms. (Quantity: 3 units)
+   
 **13⚡ XH Connectors Overview**
 <!-- 1. Reliable XH series connectors designed for secure and consistent electrical connections.
-2. Specifications: Standard pitch and pin configuration for low-voltage DC circuits; supports stable current flow.
-3. Applications: Ideal for battery packs, sensors, small electronic modules, and hobby electronics projects.
-4. Material & Build: Made from durable plastic housing with tin-plated metal contacts for corrosion resistance and long life.
-5. Integration: Easy to plug and unplug; compatible with JST-XH wires and headers for quick assembly and prototyping. -->
+1. Specifications: Standard pitch and pin configuration for low-voltage DC circuits; supports stable current flow.
+2. Applications: Ideal for battery packs, sensors, small electronic modules, and hobby electronics projects.
+3. Material & Build: Made from durable plastic housing with tin-plated metal contacts for corrosion resistance and long life.
+4. Integration: Easy to plug and unplug; compatible with JST-XH wires and headers for quick assembly and prototyping. -->
 1. Reliable XH series connectors with standard pitch and pin configuration, ensuring secure and stable low-voltage DC connections for battery packs, sensors, and small electronic modules.
 
 2. Durable plastic housing with tin-plated contacts for corrosion resistance, easy to plug/unplug, compatible with JST-XH wires and headers for quick assembly and prototyping.
+   
 **14⚡ 4.3” OLED Display Overview**
 <!-- 1. Compact 4.3-inch OLED screen designed for sharp visuals and low power consumption.
-2. Specifications: High-contrast display with bright colors and wide viewing angles; supports 16-bit color depth.
-3. Applications: Ideal for DIY electronics, robotics interfaces, handheld devices, and monitoring panels.
-4. Components & Features: Features an integrated driver for easy control, thin and lightweight for compact setups.
-5. Integration: Compatible with Arduino, Raspberry Pi, and other microcontroller platforms; supports SPI/I²C communication.
+1. Specifications: High-contrast display with bright colors and wide viewing angles; supports 16-bit color depth.
+2. Applications: Ideal for DIY electronics, robotics interfaces, handheld devices, and monitoring panels.
+3. Components & Features: Features an integrated driver for easy control, thin and lightweight for compact setups.
+4. Integration: Compatible with Arduino, Raspberry Pi, and other microcontroller platforms; supports SPI/I²C communication.
 (Quantity: 2 units) -->
 1. Compact 4.3-inch OLED screen with high-contrast, bright colors, wide viewing angles, and low power consumption, ideal for DIY electronics, robotics interfaces, handheld devices, and monitoring panels.
 
