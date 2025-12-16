@@ -61,7 +61,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 </table>
 
 We are a team of three passionate Palestinian students from Tulkarm Industrial Secondary School, united by our love for programming, artificial intelligence, and problem-solving. Osama Jadbah, 18, focuses on lifelong learning, self-development, and has earned multiple excellence certificates for his achievements. Mohammad Attili, 18, is a competitive programmer who has excelled in national and international contests, showcasing his innovation and tech skills. Kareem Amr, also 18, is a skilled programmer and problem solver, experienced in algorithms and competitive programming, and an accomplished chess player who earned 3rd place in the Palestinian Chess Championship. Together, we strive to develop our skills, tackle challenging projects, and explore new technological horizons.
-[Further Information](file:///C:/Users/Osama/OneDrive/Apps/Documents/GitHub/BATMAN-TEAM/t-photos/Team%20Description.pdf)
+[Further Information ](file:///C:/Users/Osama/OneDrive/Apps/Documents/GitHub/BATMAN-TEAM/t-photos/Team%20Description.pdf)
 
 ##
 ----
