@@ -75,6 +75,9 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 4. Document all aspects of the vehicle's design, construction, and programming.  
 5. Provide clear and detailed engineering materials to facilitate understanding and replication.  
 
+##
+----
+
  ## ⚙️ Physical Equipment  
 
 **1. 🧠 ESP32-WROOM-32 Overview**
