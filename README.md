@@ -218,6 +218,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 1. Compact 4.3-inch OLED screen with high-contrast, bright colors, wide viewing angles, and low power consumption, ideal for DIY electronics, robotics interfaces, handheld devices, and monitoring panels.
 
 2. Integrated driver for easy control, thin and lightweight design, compatible with Arduino, Raspberry Pi, and other microcontroller platforms, supporting SPI/I²C communication. (Quantity: 2 units)
+   
  [More Details about the Components](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Selected%20Components.pdf)
  
  [Comparisons with Other Components in the Market](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Comparison%20with%20Other%20Components.pdf) 
