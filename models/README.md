@@ -1,2 +1,23 @@
-# BATMAN
-A documentation repository for BATMAN team who participating in WRO 2026 in future engineer category
+## This folder contains a number of 3D models that we printed to fit the pre-prepared chassis. It also includes the components used and a comparison table between them and other components available in the market.
+
+<table>
+  <tr>
+    <td>
+      <img src="../other/3d_printed_chassis_overview.png" alt="Image 2" width="300"/>
+    </td>
+    <td>
+      <p>
+        <a href="------------------">------</a><br>
+        <a href="------------------">------</a><br>
+        <a href="------------------">------</a><br>
+        <a href="------------------">------</a><br>
+        <a href="------------------">------</a><br>
+        <a href="------------------">------</a><br>    
+        <a href="------------------">------</a><br>
+        <a href="------------------">------</a><br>
+        <a href="------------------">------</a><br>
+        <a href="------------------">------</a><br>
+      </p>
+    </td>
+  </tr>
+</table>

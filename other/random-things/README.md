@@ -1,2 +1,1 @@
-# BATMAN
-A documentation repository for BATMAN team who participating in WRO 2026 in future engineer category
+## This folder contains various miscellaneous materials related to the project, including reference files, supporting images, notes, and additional resources that were used or generated during different stages of development. These items complement the main project components and document auxiliary aspects of the work.
