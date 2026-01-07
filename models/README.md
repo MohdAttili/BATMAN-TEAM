@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="../other/3d_printed_chassis_overview.png" alt="Image 2" width="300"/>
+      <img src="../other/3d_printed_chassis_overview.png" alt="Image 2"/>
     </td>
     <td>
       <p>
@@ -19,8 +19,7 @@
         <a href="https://github.com/MohdAttili/BATMAN-TEAM/blob/main/models/partsss/right%20front%20wheel%20knuckle.stl">------</a><br>
         <a href="https://github.com/MohdAttili/BATMAN-TEAM/blob/main/models/partsss/servo%20joint%20x2.stl">------</a><br>
         <a href="https://github.com/MohdAttili/BATMAN-TEAM/blob/main/models/partsss/servo%20pusher.stl">------</a><br>
-
-      </p>
+    </p>
     </td>
   </tr>
 </table>
