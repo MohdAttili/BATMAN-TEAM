@@ -30,7 +30,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 ----
 ## Why BATMAN
 
-**Our team is called “BATMAN” — not only after the iconic hero, but after the values he stands for. Batman represents discipline, sharp thinking, resilience, and the courage to confront challenges head-on. Just as he rises above the darkness to restore order, our team rises above obstacles to achieve success. 🦇💪**
+**Our team is called “BATMAN”. We chose this name because Batman represents discipline, smart thinking, and courage. Like him, we face challenges, overcome difficulties, and work together to succeed. 🦇💪**
 
 ##
 ----
