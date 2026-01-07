@@ -11,7 +11,7 @@
 
 ##
 ----
-An autonomous vehicle designed for the Future Engineers category of the WRO 2025 that uses computer vision and IMU sensors to navigate complex environments and avoid obstacles intelligently.
+An autonomous vehicle designed for the Future Engineers category of the WRO 2026 that uses computer vision and IMU sensors to navigate complex environments and avoid obstacles intelligently.
 
 ## Content Structure
 
