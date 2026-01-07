@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="../other/3d_printed_chassis_overview.png" alt="Image 2"/>
+      <img src="../other/3d_printed_chassis_overview.png" alt="Image 2"width="350"/>
     </td>
     <td>
       <p>
