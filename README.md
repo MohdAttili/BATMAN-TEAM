@@ -53,7 +53,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
     </td>
     <td align="center">
       <img src="/t-photos/karem1.jpg" alt="From the left" width="240"height="250"/><br>
-      (Kareem Amr)<br>
+      |Kareem Amr|<br>
       Mechanical Design<br>
       Algorithms
     </td>    
